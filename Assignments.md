@@ -3,7 +3,7 @@
 # 1 Certification Requirement
 > - AI Fluency for Students
 >
-> Kindly submit the verification link here 
+> 
 > - Introduction to Agent Skills
 >
 > Kindly submit the verification link here
